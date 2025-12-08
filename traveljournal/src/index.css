@@ -1,0 +1,49 @@
+
+body{
+    font-family:arial, sans serif;
+}
+.nav-logo {
+  width: 40px;
+}
+
+span{
+    margin:5px;
+    font-weight:bold;
+}
+.header-content {
+  background-color: brown;
+  color: white;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border-radius: 10px;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-content span {
+  margin: 10px;
+}
+
+.journal-entry{
+    display:flex;
+    /* justify-content:center; */
+    align-items:center;
+    gap:10px;
+}
+
+.main-img{
+  width: 200px;
+  margin-top: 15px;
+  border-radius:5px;
+}
+.marker-icon {
+  width: 20px;
+}
+.date-parag{
+    font-weight:bold;
+}
